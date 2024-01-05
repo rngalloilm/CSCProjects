@@ -1,2 +1,10 @@
 # CSC-Projects
-Projects completed in CSC: 216, 217, 230
+Guided Project and 2 Independently Implemented Projects (GUI was provided)
+
+# GP: WolfScheduler
+
+
+# P1: WolfHire
+
+
+# P2: WolfTickets
