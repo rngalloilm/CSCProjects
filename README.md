@@ -2,7 +2,7 @@
 Guided Project and 2 Independently Implemented Projects (GUI was provided)
 
 # GP: WolfScheduler
-Run: src/edu/ncsu/csc216/wolf_scheduler/ui/WolfSchedulerGUI.java
+Run: src/edu/ncsu/csc216/wolf_scheduler/ui/WolfSchedulerGUI.java \n
 File prompt: test-files/course_records.txt
 
 # P1: WolfHire
