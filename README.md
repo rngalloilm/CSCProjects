@@ -23,14 +23,14 @@ Guided Project and 2 Independently Implemented Projects (GUI was provided)
 
 ## P2: Format people with information 
 * ./formatter < namelist-11.txt
-* Takes and formats a list of names, birthdays, and social security numbers and outputs the formatted information, total # of people, max name length, # of people 21+, # of people without a ssn.
+* Takes and formats a list of names, birthdays, and social security numbers and outputs the formatted information, total # of people, max name length, # of people 21+, and # of people without an SSN.
 
 ## P3: Stock purchasing/selling
-* ./trader <account file> <trading file>
-* Takes a text file with a list of people and their balance and a text file with a list of transactions including a name, sell/buy, number of shares
+* 
+* Takes a text file with a list of people and their balance. Takes a text file with a list of transactions including a name, sell/buy, number of shares, and cost per share. 
 
-## P4: 
+## P4: Create a trip
 
-## P5: 
+## P5: Encrypt and decrypt
 
-## P6: 
+## P6: Hash map
