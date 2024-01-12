@@ -25,7 +25,9 @@ Guided Project and 2 Independently Implemented Projects (GUI was provided)
 * ./formatter < namelist-11.txt
 * Takes and formats a list of names, birthdays, and social security numbers and outputs the formatted information, total # of people, max name length, # of people 21+, # of people without a ssn.
 
-## P3: 
+## P3: Stock purchasing/selling
+* ./trader <account file> <trading file>
+* Takes a text file with a list of people and their balance and a text file with a list of transactions including a name, sell/buy, number of shares
 
 ## P4: 
 
