@@ -36,5 +36,8 @@ Guided Project and 2 Independently Implemented Projects (GUI was provided)
 * The trip command will display your list and the distance required to make the trip.
 
 ### P5: Encrypt and Decrypt
+* ./encrypt abcd1234 plain-a.txt output.bin
+* ./decrypt hashtags cipher-g.bin stdout.txt
+* Takes an 8-character key to encrypt a text file into binary or vice versa. This is based on the DES (Data Encryption Standard) algorithm.
 
 ### P6: Hash Map
