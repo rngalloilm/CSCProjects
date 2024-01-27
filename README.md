@@ -23,7 +23,7 @@ Guided Project and 2 Independently Implemented Projects (GUI was provided)
 
 ### P2: List Formatting of People attached with Attributes 
 * ./formatter < namelist-11.txt
-* Takes and formats a list of names, birthdays, and social security numbers and outputs the formatted information, total # of people, max name length, # of people 21+, and # of people without an SSN.
+* Takes and formats a list of names with an associated birthday and social security number. Outputs the formatted information, total # of people, max name length, # of people 21+ years old, and # of people without a SSN.
 
 ### P3: Purchase and Sell Stocks
 * ./trader aliceAndBob-5.txt tlist-05.txt
