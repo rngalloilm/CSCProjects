@@ -21,16 +21,20 @@ Guided Project and 2 Independently Implemented Projects (GUI was provided)
 # C
 4 Independently Implemented Projects. Most testing and text input was provided.
 
-### P2: Format lists of people attached with attributes 
+### P2: List Formatting of People attached with Attributes 
 * ./formatter < namelist-11.txt
 * Takes and formats a list of names, birthdays, and social security numbers and outputs the formatted information, total # of people, max name length, # of people 21+, and # of people without an SSN.
 
-### P3: Stock purchasing/selling
-* 
-* Takes a text file with a list of people and their balance. Takes a text file with a list of transactions including a name, sell/buy, number of shares, and cost per share. 
+### P3: Purchase and Sell Stocks
+* ./trader aliceAndBob-5.txt tlist-05.txt
+* Takes a text file with a list of people and their balance. Takes a text file with a list of transactions including a name, sell/buy, number of shares, and cost per share.
+* Outputs a text file with a list of people and their new balances under the same name with an increment to the number (aliceAndBob-6.txt).
 
 ### P4: Create a trip
+* ./parks parks-b.txt
+* Use the list of parks to create your list of destinations through these commands: list parks (sorted by ID), list names (sorted alphabetically), list county _name_, add _ID_, remove _ID_, trip.
+* The trip command will display your list and the distance required to make the trip.
 
-### P5: Encrypt and decrypt
+### P5: Encrypt and Decrypt
 
-### P6: Hash map
+### P6: Hash Map
