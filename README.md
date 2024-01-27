@@ -1,6 +1,6 @@
 ## Computer Science Projects
+* C (P2 - P6)
 * Java
-* C
 
 # Java
 Guided Project and 2 Independently Implemented Projects (GUI was provided)
