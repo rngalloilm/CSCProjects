@@ -19,7 +19,7 @@ Guided Project and 2 Independently Implemented Projects (GUI was provided)
 * File -> Load Group: test-files/group1.txt
 
 # C
-4 Independently Implemented Projects. Most testing and text input was provided.
+4 Independently Implemented Projects. Makefiles are included for compilation. Most testing and text input was provided.
 
 ### P2: List Formatting of People attached with Attributes 
 * ./formatter < namelist-11.txt
