@@ -3,7 +3,7 @@
 * Java
 
 # Java
-Guided Project and 2 Independently Implemented Projects (GUI was provided)
+Guided Project and 2 Independently Implemented Projects. GUI was provided.
 
 ### GP: WolfScheduler
 * Run Java: src/edu/ncsu/csc216/wolf_scheduler/ui/WolfSchedulerGUI.java
