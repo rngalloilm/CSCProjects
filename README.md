@@ -3,7 +3,11 @@
 * Java
 
 # Java
-Guided Project and 2 Independently Implemented Projects. GUI was provided.
+2 Guided Projects and 2 Independently Implemented Projects. GUI was provided.
+
+### GP: DataStructures
+* No GUI
+* Implemented and tested algorithms and data structure functionality.
 
 ### GP: WolfScheduler
 * Run Java: src/edu/ncsu/csc216/wolf_scheduler/ui/WolfSchedulerGUI.java
