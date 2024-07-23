@@ -7,7 +7,7 @@
 
 ### GP: DataStructures
 * No GUI
-* Implemented and tested algorithms and data structure functionality.
+* Implemented and tested algorithms & data structure functionality.
 
 ### GP: WolfScheduler
 * Run Java: src/edu/ncsu/csc216/wolf_scheduler/ui/WolfSchedulerGUI.java
@@ -23,7 +23,11 @@
 * File -> Load Group: test-files/group1.txt
 
 # C
-5 Independently Implemented Projects. Makefiles are included for compilation. Most testing and text input was provided.
+6 Independently Implemented Projects. Makefiles are included for compilation. Most testing and text input was provided.
+
+### HW3.2: Max Palindrome
+* ./maxpalindrome-thread 4 report < input-3.txt
+* Takes a list of characters and displays (given "report") the largest palindrome found from each thread/section of text.
 
 ### P2: List Formatting of People attached with Attributes 
 * ./formatter < namelist-11.txt
